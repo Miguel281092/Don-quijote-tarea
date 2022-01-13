@@ -1,0 +1,34 @@
+.Grupo{
+    text-align: left;text-indent: 30px;
+    width: 1000px;
+    left: 250px;
+    position:relative;
+    left: 300px;
+}
+    
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Imagenes-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.centrado{
+    text-align: center;
+}
+.descripcion{
+    font-size: 18px;
+    font-weight: 100;
+}
+.cap{
+    font-size: 25px;
+}
+
+    
+
+
+
